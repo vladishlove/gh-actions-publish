@@ -7,7 +7,7 @@
 
 # Publish to GitHub Packages
 
-_Use GitHub Actions to publish your project to a Docker image._
+_Use GitHub Actions to publish your project to a Docker image.
 
 <!--
   <<< Author notes: Start of the course >>>
